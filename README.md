@@ -11,9 +11,10 @@ README
 - The page now has accurate HTML structure, I have included alt tags for the images as well as correcting a link issue on the page
 
 
-## Table of Contents (Optional)
+## Usage
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+![Page Screenshot](assets/images/screenshot.png)
+
 
 
 ## License
